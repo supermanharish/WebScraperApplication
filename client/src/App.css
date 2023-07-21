@@ -1,0 +1,25 @@
+.App
+{
+  text-align: center;
+  background-color: rgb(30, 117, 151);
+  color: white;
+  border-radius: 10px;
+  width: 60%;
+  height: 200px;
+  margin: auto;
+  margin-top: 60px;
+  padding: 15px;
+}
+.SearchPro{
+  border-radius: 5px;
+  color: rgb(117, 66, 66);
+  height: 30px;
+}
+.Search{
+  border-radius: 5px;
+  color: rgb(14, 15, 15);
+  width: 250px;
+  height: 20px;
+  padding: 3px;
+  margin: 2px;
+}
